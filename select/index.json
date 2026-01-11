@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "星の声",
+  "base_artist": "SHINY COLORS",
+  "createdAt": "2026-01-11T08:48:36.412407Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星の声",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_01_星の声_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "星の声",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_02_星の声_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "星の声",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_03_星の声_シャイニーカラーズ.txt"
+    }
+  ]
+}
